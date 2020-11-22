@@ -7,6 +7,7 @@ From the two analysis deliverables three major points can be observed:
 1.	There are 1700 temperatures taken from June, and there are 1517 temperatures taken from December. 
 2.	The average temperature during June is 74F and the average temperature during December is 71F.
 3.	The highest temperature registered during June (2017) was 85F, while the highest temperature during December (2017) was 83F.
+
 ![](https://github.com/KatiuscaQ/Surfs_up/blob/main/Resources/June_temps.PNG)
 ![](https://github.com/KatiuscaQ/Surfs_up/blob/main/Resources/Dec_temps.PNG)
 
